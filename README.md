@@ -1,11 +1,11 @@
 
-<img align="right" alt="Travel" width="1000" height="400" src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477">
+<img align="right" alt="Travel" width="1000" height="500" src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477">
 <h1 align="center">Hi 👋, I'm SACHIN</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthimmiah&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthimmiah" /> </p>
 
-<img align="right" alt="Travel" width="350" height="300" src="https://cdn.pixabay.com/animation/2022/07/31/20/14/20-14-05-792_512.gif">
+<img align="right" alt="Travel" width="350" height="250" src="https://cdn.pixabay.com/animation/2022/07/31/20/14/20-14-05-792_512.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinthimmiah](https://github.com/sachinthimmiah)
 
