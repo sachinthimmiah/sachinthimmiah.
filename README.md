@@ -1,7 +1,7 @@
 
 <img align="right" alt="Travel" width="1000" height="500" src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477">
 <h1 align="center">Hi 👋, I'm SACHIN</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">A passionate Back-end developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthimmiah&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthimmiah" /> </p>
 
