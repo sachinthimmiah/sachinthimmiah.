@@ -1,5 +1,5 @@
-<img align="right" alt="Travel" width="1000" height="600" src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477">
-<h1 align="center">Hi 👋, I'm SACHIN M T</h1>
+<img align="right" alt="Travel" width="1000" height="500" src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477">
+<h1 align="center">Hi 👋, I'm SACHIN </h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 
 <img align="right" alt="Travel" width="350" height="300" src="https://cdn.pixabay.com/animation/2022/07/31/20/14/20-14-05-792_512.gif">
