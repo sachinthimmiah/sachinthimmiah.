@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/__t.r.i.s.h.u.l__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__t.r.i.s.h.u.l__/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sachinthimmiah0623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sachinthimmiah0623" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sachinthimmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sachinthimmiah" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/SACHIN_M_T/" target="blank"><img align="center" src="https://drive.google.com/file/d/1yYmOYZSwolvJYF9sewUCVBz6wo0yRFEA/view?usp=drive_link" alt="https://leetcode.com/u/SACHIN_M_T/" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/SACHIN_M_T/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="https://leetcode.com/u/SACHIN_M_T/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
