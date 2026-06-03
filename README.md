@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sachinthimmiah454@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PdbZqCw9EWGV79sDHVGLyV2KC8vRQcD6/view?usp=sharing](https://drive.google.com/file/d/1PdbZqCw9EWGV79sDHVGLyV2KC8vRQcD6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PdbZqCw9EWGV79sDHVGLyV2KC8vRQcD6/view?usp=sharing](https://drive.google.com/file/d/18dGFWL01rX8l-Qb3NCJORqdLgSfeVr0H/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
