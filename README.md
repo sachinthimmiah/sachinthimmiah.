@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinthimmiah](https://github.com/sachinthimmiah)
 
-- 📫 How to reach me **sachinthimmiah@gmail.com**
+- 📫 How to reach me **sachinthimmiah454@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PdbZqCw9EWGV79sDHVGLyV2KC8vRQcD6/view?usp=sharing](https://drive.google.com/file/d/1PdbZqCw9EWGV79sDHVGLyV2KC8vRQcD6/view?usp=sharing)
 
